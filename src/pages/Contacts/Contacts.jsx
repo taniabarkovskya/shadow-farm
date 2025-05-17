@@ -70,7 +70,7 @@ export const Contacts = () => {
 
   return (
     <div className="flex flex-col p-10 bg-gray-700 text-gray-200 rounded-md">
-      <h2 className="text-4xl font-bold mb-6 text-center text-gray-300">
+      <h2 className="text-shadow-lg text-4xl font-bold mb-6 text-center text-gray-300">
         Звʼяжіться з нами
       </h2>
 
