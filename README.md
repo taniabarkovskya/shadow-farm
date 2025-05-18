@@ -10,4 +10,4 @@
 - React Router – для навігації між сторінками
 
 ## Переглянути демо:
-Можна за посиланням ось [тут](https://vercel.com/taniabarkovskyas-projects/shadow-farm) !
+Можна за посиланням ось [тут](https://shadow-farm.vercel.app/) !
